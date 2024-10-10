@@ -35,8 +35,9 @@ Where the accomplishments will be published (see resource 1.02)
       - [ ] Customize resource 1.03 with Google Drive for your project and add project name
       - Customize resource 1.04.01 with the link to your one sheet
         - [ ] go to resource 1.05.01 on this epic,
-        - [ ] find the file name that corresponds to your project (if there is one there)
-        - [ ] add link to resource 1.04.01 on the issue you created.
+        - [ ] look for the file name that corresponds to your project 
+           - [ ] if you find one, add link to resource 1.04.01 on the issue you created.
+           - [ ] if you don't find one, write `none` after 1.04.01 
       - Customize resource 1.04.02 with the Overview link from your project page on hackforla.org
         - [ ] go to [hackforla.org/projects](https://www.hackforla.org/projects)
         - [ ] find your project card
