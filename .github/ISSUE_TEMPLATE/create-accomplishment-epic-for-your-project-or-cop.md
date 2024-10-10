@@ -32,11 +32,11 @@ Where the accomplishments will be published (see resource 1.02)
    - [ ] add it to your project board
    - Customize the resources
       - [ ] resource 1.01 with the link to the epic
+      - [ ] Customize resource 1.03 with Google Drive for your project and add project name
       - Customize resource 1.04.01 with the link to your one sheet
         - [ ] go to resource 1.05.01 on this epic,
         - [ ] find the file name that corresponds to your project (if there is one there)
         - [ ] add link to resource 1.04.01 on the issue you created.
-      - [ ] Customize resource 1.03 with Google Drive for your project and add project name
       - Customize resource 1.04.02 with the Overview link from your project page on hackforla.org
         - [ ] go to [hackforla.org/projects](https://www.hackforla.org/projects)
         - [ ] find your project card
@@ -47,13 +47,14 @@ Where the accomplishments will be published (see resource 1.02)
       - [ ] Customize 1.04.03 with Project Name
       - Customize 1.05 by adding issue tab link
          - [ ] Copy resource 2.01 in this epic to 1.05 in the new issue
-   -  Add the appropriate labels by replacing missing series labels with
+   - Submit the issue
+   -  Add the appropriate labels by replacing missing series labels with the following (if the labels don't exist, please make them):
       - [ ] size: (Number of years since your repository was created)
       - [ ] role: product or if you have a marketing person marketing role: marketing
       - [ ] p-feature: accomplishments
       - [ ] complexity: large
       - [ ] time sensitive
-   -  Add the appropriate milestone
+   -  Add the appropriate milestone (create it if you don't have either of the two below):
       - [ ] org requirements (if you have this)
       - [ ] project management (if you don't have org requirements)
 - Link the issue to this epic
