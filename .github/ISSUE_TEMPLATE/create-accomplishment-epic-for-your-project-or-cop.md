@@ -23,9 +23,6 @@ Where the accomplishments will be published (see resource 1.02)
 
 ### Action Items for all accomplishments 2020-2024
 #### Create an issue on your repo to gather/draft project accomplishments
-- Add the epic issue to the following project boards:
-   - [ ] your project
-   - [ ] HfLA: Project Team Tasks
 - Search the project's repo for any accomplishment issues, add any links you find to a comment
   - [ ] Go to the project repo issue tab (resource 2.01) and look for any issues previously created for writing accomplishments for the Hack for LA website. It might have the label feature: accomplishments or be named ...Accomplishment Summary for HfLA Website...
 -  If there is an issue, compare it to the Accomplishment Issue Template (resource 1.03.01), and update it, so that it has the same steps and resources.
