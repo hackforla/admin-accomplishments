@@ -4,7 +4,7 @@ about: 'Accomplishments for each project by year, are added to https://www.hackf
 title: 'Accomplishments Epic: [Name of Project]'
 labels: 'Level: Learning, Marketing Type: Organizational, milestone: missing, P or
   CoP: missing, p-feature: accomplishments, PA: missing, project todo, role: missing,
-  size: 0.5pt'
+  S: missing, size: 0.5pt'
 assignees: ''
 
 ---
