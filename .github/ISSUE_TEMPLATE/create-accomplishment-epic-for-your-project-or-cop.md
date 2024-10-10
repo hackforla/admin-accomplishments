@@ -62,10 +62,12 @@ Where the accomplishments will be published (see resource 1.02)
 - Put the issue you just created in the prioritized backlog
    - [ ] Place in the prioritized backlog.  Issues with time sensitive labels jump the queue, and are prioritized with other time sensitive issues
 - Let the Admin team know that you are finished creating this epic and the child issue
-   - [ ] Add a `ready for prioritization` label to this issue
+   - [ ] Add a `ready for prioritization` label to this issue.  Create it if it does not exist.
 
 #### work on the issue
-- [ ] once the issue has drafts or questions for PM CoP then do the rest of the steps
+- [ ] do the steps in the issue linked at 2.02.01 and return here when you have drafts or questions for PM CoP
+
+#### Get answers to questions/Share your issue when drafts are done
 - Prepare the epic for discussion with Product Management CoP
    - [ ] add a label `ready for product management lead`
    - [ ] move to the questions / review column
@@ -123,9 +125,10 @@ October [YYYY] or sooner if there are accomplishments to share
 - Let the Admin team know that you are finished creating this epic and the child issue
    - [ ] Add a `ready for prioritization` label to this issue
 
-
 #### work on the issue
-- [ ] once the issue has drafts or questions for PM CoP then do the rest of the steps
+- [ ] do the steps in the issue linked at 2.02.0[?] and return here when you have drafts or questions for PM CoP
+
+#### Get answers to questions/Share your issue when drafts are done
 - Prepare the epic for discussion with Product Management CoP
    - [ ] add a label `ready for product management lead`
    - [ ] move to the questions / review column
