@@ -59,12 +59,10 @@ Where the accomplishments will be published (see resource 1.02)
       - [ ] project management (if you don't have org requirements)
 - Link the issue to this epic
    - [ ] add the issue number to resource 2.02.01
-- put the issue you just created in the prioritized backlog
 - Put the issue you just created in the prioritized backlog
    - [ ] Place in the prioritized backlog.  Issues with time sensitive labels jump the queue, and are prioritized with other time sensitive issues
 - Let the Admin team know that you are finished creating this epic and the child issue
    - [ ] Add a `ready for prioritization` label to this issue
-
 
 #### work on the issue
 - [ ] once the issue has drafts or questions for PM CoP then do the rest of the steps
